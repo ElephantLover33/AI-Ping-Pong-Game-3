@@ -1,0 +1,15 @@
+body
+{
+    text-align: center;
+}
+
+.heading {
+    width: 100%;
+    text-align: center;
+}
+
+.btn-warning {
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #eea236;
+}
